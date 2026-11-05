@@ -1,2 +1,3 @@
-# modern-saas-landing-page
-Modern Dark-Themed SaaS Landing Page engineered with Nexus AI Assistant
+# Modern SaaS Landing Page
+
+Engineered with Nexus AI Assistant.
